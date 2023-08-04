@@ -1,0 +1,28 @@
+# Node.js
+node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Dependency directories
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Cyclic.sh
+.cyclic/
+
+# Environment variables
+.env
+
+# Output of npm
+*.tgz
+
+# Optional - Ignore package-lock.json if you are using npm
+package-lock.json
+
+# Optional - Ignore yarn.lock if you are using Yarn
+yarn.lock
